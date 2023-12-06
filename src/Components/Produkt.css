@@ -1,0 +1,11 @@
+
+
+section {
+    display: flex;
+    gap: 10px;
+    margin: 2%;
+}
+
+img{
+    max-width: 80%;
+}
